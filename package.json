@@ -1,0 +1,23 @@
+{
+  "name": "chat-test",
+  "version": "1.0.0",
+  "description": "Chat test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamtrang/node-chat-test.git"
+  },
+  "author": "William Trang",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/williamtrang/node-chat-test/issues"
+  },
+  "homepage": "https://github.com/williamtrang/node-chat-test#readme"
+}
